@@ -1,0 +1,3 @@
+To flash this firmware you will need the USB cable which came with the printer as well as the flashing tool (in the folder with the firmware). 
+Power your printer on, connect it you your PC via the USB (ensure you use USB 2.0 as 3.0 will not work), open the flashing tool and select download, select the firmware.bin provided.
+The flashing tool will now run through a series of steps DO NOT UNPLUG YOUR PRINTER OR TURN POWER OFF. Once done you will have the new firmware installed.
